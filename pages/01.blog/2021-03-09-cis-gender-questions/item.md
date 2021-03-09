@@ -13,7 +13,7 @@ taxonomy:
 
 ## CIS Gender Questions
 
-[Hannah Witton](https://www.youtube.com/hannahwitton/featured) posted a [video](https://www.youtube.com/watch?v=sBJQ2nV-bo4)[^1] today about a [Twitter thread](https://twitter.com/hthrflwrs/status/1342553808178716672)[^2] posted by [Heather Flowers](https://heather.flowers) (they/she), who happens to be a trans [game developer](https://hthr.itch.io). In the thread Heather Flowers asks CIS identifying people to take thirty minutes and consider their gender identity. They then go on to ask seven questions as a jumping off point to start the introspective conversation.
+[Hannah Witton](https://www.youtube.com/hannahwitton/featured) posted a [video](https://www.youtube.com/watch?v=sBJQ2nV-bo4) today about a [Twitter thread](https://twitter.com/hthrflwrs/status/1342553808178716672) posted by [Heather Flowers](https://heather.flowers) (they/she), who happens to be a trans [game developer](https://hthr.itch.io). In the thread Heather Flowers asks CIS identifying people to take thirty minutes and consider their gender identity. They then go on to ask seven questions as a jumping off point to start the introspective conversation.
 
 Hannah Witton expounded upon the idea, and presented the thought that since CIS is the statistical/societal norm, that it's treated as the default and thus not considered a gender identity. I found the idea to be intriguing, and anecdotally true, so I decided to go through and answer Heather Flowers's list of questions myself:
 
@@ -74,6 +74,3 @@ As I said in my answering, I identify as CIS male, because the majority of my ex
 ### Conclusion
 
 I'd encourage any and all, CIS male identifying or otherwise, to take thirty minutes (or an hour in my case), and think about these questions. You may discover something about yourself, even if that something is that you're exactly the way you perceive yourself to be it's worth the introspection.
-
-[^1]: [Cis People Should Think About Their Gender Too](https://www.youtube.com/watch?v=sBJQ2nV-bo4)
-[^2]: [Heather Flowers (@HTHRFLWRS) Twitter Thread](https://twitter.com/hthrflwrs/status/1342553808178716672)
