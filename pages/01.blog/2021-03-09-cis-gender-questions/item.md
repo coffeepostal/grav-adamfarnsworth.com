@@ -4,12 +4,21 @@ date: 11:26 03/09/2021
 author: Adam Farnsworth
 continue_link: true
 
+published: true
+
 hero_classes: text-light title-h1h2 overlay-dark-gradient hero-large parallax
+hero_image: nguyen-dang-hoang-nhu-qDgTQOYk6B8-unsplash.jpg
+hero_align: center
+
+header_image_alt_text: Photo by Nguyen Dang Hoang Nhu
 
 taxonomy:
     category: blog
     tag: [gender, gender identity, sexuality, sexology, CIS, male, female, trans, gender non-binary, masculinity, femininity, androgony, misogyny, identity]
 ---
+
+Photo by <a href="https://unsplash.com/@nguyendhn?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nguyen Dang Hoang Nhu</a> on <a href="/s/photos/quiz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
 
 ## CIS Gender Questions
 
