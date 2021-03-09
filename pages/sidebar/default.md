@@ -5,8 +5,8 @@ visible: false
 position: top
 ---
 
-#### Markdown Area
+#### Social Links
 
-Some text here.
+[Instagram](https://www.instagram.com/coffeepostal)
 
 [twitter url="https://twitter.com/coffeepostal" text="Tweets by @coffeepostal" height="600"]
