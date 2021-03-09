@@ -1,6 +1,5 @@
 ---
 title: CIS Gender Questions
-subtitle: Photo by <a href="https://unsplash.com/@nguyendhn?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nguyen Dang Hoang Nhu</a> on <a href="/s/photos/quiz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 date: 11:26 03/09/2021
 author: Adam Farnsworth
 continue_link: true
@@ -81,3 +80,7 @@ As I said in my answering, I identify as CIS male, because the majority of my ex
 ### Conclusion
 
 I'd encourage any and all, CIS male identifying or otherwise, to take thirty minutes (or an hour in my case), and think about these questions. You may discover something about yourself, even if that something is that you're exactly the way you perceive yourself to be it's worth the introspection.
+
+---
+
+###### Header photo by <a href="https://unsplash.com/@nguyendhn?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nguyen Dang Hoang Nhu</a> on <a href="/s/photos/quiz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
