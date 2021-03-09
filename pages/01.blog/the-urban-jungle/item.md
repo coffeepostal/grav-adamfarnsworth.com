@@ -11,6 +11,8 @@ taxonomy:
     tag: [travel, photography, city]
 
 header_image_alt_text: Spray painted portrait of Albert Einstein
+
+published: false
 ---
 
 Lorem markdownum credas animos nec Phoeboque; de iuris *creverat* et finis ad
