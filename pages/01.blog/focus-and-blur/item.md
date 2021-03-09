@@ -10,6 +10,8 @@ taxonomy:
     tag: [mushroom, photography]
 
 header_image_alt_text: Plant, which blurs into the distance
+
+published: false
 ---
 
 Lorem markdownum incessere **hostem coronae** properant. Perque matrem sic

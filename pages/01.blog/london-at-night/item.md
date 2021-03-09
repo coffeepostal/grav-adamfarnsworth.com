@@ -10,6 +10,8 @@ taxonomy:
     tag: [city, night, photography]
 
 header_image_alt_text: City at night
+
+published: false
 ---
 
 Lorem markdownum freta ducentem ut flagrat undas fratrem celeres colloque; in

@@ -6,6 +6,8 @@ link: http://daringfireball.net
 taxonomy:
     category: blog
     tag: [journal, link]
+
+published: false
 ---
 
 The blog skeleton also supports **Daring Fireball** style link posts.  Simply add a link setting in your page header:

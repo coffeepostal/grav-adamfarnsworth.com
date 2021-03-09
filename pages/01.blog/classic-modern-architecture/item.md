@@ -12,6 +12,8 @@ hero_image: unsplash-luca-bravo.jpg
 blog_url: /blog
 subtitle: 'finding beauty in structure'
 
+published: false
+
 header_image_alt_text: Modern building
 ---
 

@@ -12,6 +12,8 @@ taxonomy:
     tag: [journal, photography]
 
 header_image_alt_text: Mountains
+
+published: false
 ---
 
 

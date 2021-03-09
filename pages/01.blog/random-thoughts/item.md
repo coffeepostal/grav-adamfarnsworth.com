@@ -1,9 +1,11 @@
 ---
 title: Random Thoughts
-date: 13:34 05/26/2017 
+date: 13:34 05/26/2017
 taxonomy:
     category: blog
     tag: [journal]
+
+published: false
 ---
 
 Lorem markdownum mirum. Solus restare dabat, gladio vipereis caerula?
