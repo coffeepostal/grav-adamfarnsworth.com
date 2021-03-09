@@ -16,7 +16,6 @@ taxonomy:
     category: blog
     tag: [gender, gender identity, sexuality, sexology, CIS, male, female, trans, gender non-binary, masculinity, femininity, androgony, misogyny, identity]
 ---
-
 ## CIS Gender Questions
 
 [Hannah Witton](https://www.youtube.com/hannahwitton/featured) posted a [video](https://www.youtube.com/watch?v=sBJQ2nV-bo4) today about a [Twitter thread](https://twitter.com/hthrflwrs/status/1342553808178716672) posted by [Heather Flowers](https://heather.flowers) (they/she), who happens to be a trans [game developer](https://hthr.itch.io). In the thread Heather Flowers asks CIS identifying people to take thirty minutes and consider their gender identity. They then go on to ask seven questions as a jumping off point to start the introspective conversation.
