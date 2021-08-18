@@ -1,7 +1,9 @@
 ---
-title: 'Standard Page'
+title: 'About Adam'
 hide_git_sync_repo_link: false
 ---
+
+Hello, my name is Adam Farnsworth. I'm a millennial from the Pacific Northwest, with a love of movies, food, and sexology.
 
 This is an example **standard** page, where content from one single page is displayed. This page also shows how to add classes to Markdown images for floating images left or right, with and without captions.
 
