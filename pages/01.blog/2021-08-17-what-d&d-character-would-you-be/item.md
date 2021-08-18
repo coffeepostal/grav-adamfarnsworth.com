@@ -16,7 +16,7 @@ taxonomy:
     category: blog
     tag: [d&d, dungeons and dragons, quiz, identity]
 ---
-# What D&D Character Would You Be?
+## What D&D Character Would You Be?
 
 [What Kind of D&D Character Would You Be?](http://easydamus.com/character.html) is one of those online quizes that don't really mean anything, but weirdly feel like they tap into something that no one really gets about you.
 
