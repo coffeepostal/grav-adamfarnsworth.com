@@ -27,12 +27,14 @@ Regardless, when I saw [someone on TikTok](https://www.tiktok.com/@11halloween22
 > I am a: __Chaotic Good Gnome Wizard/Sorcerer (3rd/2nd Level)__
 >
 > <u>**Ability Scores:**</u>
-`Strength: ------ 14`
-`Dexterity: ----- 16`
-`Constitution: -- 12`
-`Intelligence: -- 16`
-`Wisdom: -------- 15`
-`Charisma: ------ 13`
+```
+Strength: ------ 14
+Dexterity: ----- 16
+Constitution: -- 12
+Intelligence: -- 16
+Wisdom: -------- 15
+Charisma: ------ 13
+```
 >
 > <u>**Alignment:**</u>
 > __Chaotic Good__ A chaotic good character acts as his conscience directs him with little regard for what others expect of him. He makes his own way, but he's kind and benevolent. He believes in goodness and right but has little use for laws and regulations. He hates it when people try to intimidate others and tell them what to do. He follows his own moral compass, which, although good, may not agree with that of society. Chaotic good is the best alignment you can be because it combines a good heart with a free spirit. However, chaotic good can be a dangerous alignment when it disrupts the order of society and punishes those who do well for themselves.
@@ -96,24 +98,28 @@ Wizard ---------- XXXXXXXXXXXXXXXX (16)
 I like the option to sort of look at my second and third place options, sort of like the path not taken. I guess I'll sort of breakdown my impressions of the quiz versus my self awareness.
 
 #### Ability Scores
-`Strength: ------ 14`
-`Dexterity: ----- 16`
-`Constitution: -- 12`
-`Intelligence: -- 16`
-`Wisdom: -------- 15`
-`Charisma: ------ 13`
+```
+Strength: ------ 14
+Dexterity: ----- 16
+Constitution: -- 12
+Intelligence: -- 16
+Wisdom: -------- 15
+Charisma: ------ 13
+```
 
 So, I mostly agree with these scores, though, I think I'd move a couple of points out of CON and put them in CHA. I carry my stress in my gut and have a fairly temperamental stomach. I can also get migraines from time to time, so in all actuality, I should probably make constitution more like 8, as it's below average. But, I'm also fairly charismatic and the questions on the quiz that I struggled most with were those around charisma, nature vs. nurture, and identity.
 
 As flattering as it is, I'd also take some points out of intelligence. I have no illusions of ignorance, but I was not a good student for neuro-divergent reasons, and only recently finished my undergraduate degree, eighteen years after beginning it. Since intelligence is based on *"book learning"* I think I'd manipulate those numbers as well.
 
 With all that, this would be my version of the stats:
-`Strength: ------ 14`
-`Dexterity: ----- 16`
-`Constitution: -- 8`
-`Intelligence: -- 12`
-`Wisdom: -------- 15`
-`Charisma: ------ 15`
+```
+Strength: ------ 14
+Dexterity: ----- 16
+Constitution: -- 8
+Intelligence: -- 12
+Wisdom: -------- 15
+Charisma: ------ 15
+```
 
 #### Alignment
 This is the section that made me feel seen. *"He makes his own way, but he's kind and benevolent"* is how I see myself, regardless of how the rest of the world actually perceives me.
