@@ -16,7 +16,7 @@ taxonomy:
     category: blog
     tag: [design, graphic design, clients, generational rage, respect]
 ---
-## Design ≠ Art | Design = Communication
+## Staying Current > Lived Experience
 
 I'm a graphic designer, I have been for a little over seventeen years.
 
@@ -31,6 +31,8 @@ It basically means that, in order to value your own work, clients either need to
 - (in rare cases) there are no deadlines or due dates
 
 The deal is that I, the designer, will do professional-level work for your project that you either can't afford, or as a donation to a cause, and in exchange, I, the designer, am allowed to fully stretch my creative wings, make something entirely without client oversight.
+
+## Design ≠ Art | Design = Communication
 
 I can hear non-designers hackles starting to going up at this point:
 
