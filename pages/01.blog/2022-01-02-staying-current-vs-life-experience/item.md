@@ -16,7 +16,6 @@ taxonomy:
     category: blog
     tag: [design, graphic design, clients, generational rage, respect]
 ---
-## Staying Current > Lived Experience
 
 I'm a graphic designer, I have been for a little over seventeen years.
 
