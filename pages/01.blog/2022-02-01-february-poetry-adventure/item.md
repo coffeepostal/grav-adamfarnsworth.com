@@ -67,7 +67,7 @@ you can spill TEA.
 
 You can't spill COFFEE.
 Yes, you can SPILL coffee,
-&nbsp;&nbsp;&nbsp;but,
+ but,
 spill COFFEE, you just can't do that.
 
 And, that is the only way that coffee is inferior to tea.
@@ -83,9 +83,9 @@ You’re only going to get five hours of sleep tonight.
 It’s not the clock’s fault.
 It didn’t choose you as it’s mortal enemy to torment for all time.
 It didn’t come off the assembly line full of malice and hate;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;desiring your stress;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;desiring your frustration;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;desiring your embarrassment.
+ desiring your stress;
+ desiring your frustration;
+ desiring your embarrassment.
 
 And yet, it does stress, frustrate, and embarrass.
 
@@ -119,11 +119,11 @@ I wonder if any of the children behind me in line are envious of me.
 I don’t think so. I don’t think they notice.
 
 I feel like I failed my younger self: bored out of my mind at the grocery store with my mom, standing on the back of the cart, waiting in line, thinking that the paper bag people were so much cooler…
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;…they didn’t have kids.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;…they have a French Press, used that morning, but not cleaned.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;…they listened to Kenny G. and Phil Colins.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;…they didn’t go to church, they slept in on the weekends.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;…they use mustard on sandwiches and unsliced sourdough from the bakery.
+  ...they didn’t have kids.
+  ...they have a French Press, used that morning, but not cleaned.
+  ...they listened to Kenny G. and Phil Colins.
+  ...they didn’t go to church, they slept in on the weekends.
+  ...they use mustard on sandwiches and unsliced sourdough from the bakery.
 
 I still ask for paper, but I’m who I dreamed we’d be.
 
