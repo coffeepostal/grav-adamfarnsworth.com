@@ -1,5 +1,5 @@
 ---
-title: &num; FebruaryPoetryAdventure
+title: February Poetry Adventure
 date: 11:26 03/09/2022
 author: Adam Farnsworth
 continue_link: true
