@@ -118,11 +118,16 @@ Now I’m the people who ask for paper bags.
 I wonder if any of the children behind me in line are envious of me.
 I don’t think so. I don’t think they notice.
 
-I feel like I failed my younger self: bored out of my mind at the grocery store with my mom, standing on the back of the cart, waiting in line, thinking that the paper bag people were so much cooler…
+I feel like I failed my younger self: bored out of my mind at the grocery store with my mom, standing on the back of the cart, waiting in line, thinking that the paper bag people were so much cooler...
+
   ...they didn’t have kids.
+
   ...they have a French Press, used that morning, but not cleaned.
+
   ...they listened to Kenny G. and Phil Colins.
+
   ...they didn’t go to church, they slept in on the weekends.
+
   ...they use mustard on sandwiches and unsliced sourdough from the bakery.
 
 I still ask for paper, but I’m who I dreamed we’d be.
