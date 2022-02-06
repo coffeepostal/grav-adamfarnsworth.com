@@ -43,5 +43,9 @@ I'm going to complile all of the poems here, in chronilogical order, but I may s
 ![Stone](poems/04-paper-bag.png)
 
 ---
+### Day 5 - Vanilla
+![Stone](poems/05-vanilla.png)
+
+---
 
 ###### Header photo by Photo by <a href="https://unsplash.com/@valentinsalja?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Valentin Salja</a> on <a href="https://unsplash.com/s/photos/poetry?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
