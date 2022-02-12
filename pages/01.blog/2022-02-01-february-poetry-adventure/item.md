@@ -54,15 +54,21 @@ I'm going to complile all of the poems here, in chronilogical order, but I may s
 
 ---
 ### Day 8 - Cedar
-![Lamp](poems/08-cedar.png)
+![Cedar](poems/08-cedar.png)
 
 ---
 ### Day 9 - Wax
-![Lamp](poems/09-wax.png)
+![Wax](poems/09-wax.png)
 
 ---
 ### Day 10 - Old Shoes
-![Lamp](poems/10-old-shoes.png)
+![LamOld Shoesp](poems/10-old-shoes.png)
+
+---
+
+### Day 11 - Desk
+![Desk](poems/11-desk-part-1.png)
+![Desk](poems/11-desk-part-2.png)
 
 ---
 
