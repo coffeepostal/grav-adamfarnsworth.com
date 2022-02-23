@@ -114,6 +114,10 @@ I'm going to complile all of the poems here, in chronilogical order, but I may s
 ![Cookies](poems/21-cookies.png)
 
 ---
+### Day 22 - Brick
+![Brick](poems/22-brick.png)
+
+---
 
 
 ###### Header photo by Photo by <a href="https://unsplash.com/@valentinsalja?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Valentin Salja</a> on <a href="https://unsplash.com/s/photos/poetry?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
