@@ -98,10 +98,6 @@ I'm going to complile all of the poems here, in chronilogical order, but I may s
 ![Ink](poems/18-ink.png)
 
 ---
-### Day 18 - Ink
-![Ink](poems/18-ink.png)
-
----
 ### Day 19 - Inhale
 ![Inhale](poems/19-inhale.png)
 
