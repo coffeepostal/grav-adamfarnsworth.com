@@ -134,7 +134,7 @@ I'm going to complile all of the poems here, in chronilogical order, but I may s
 ![Rug](poems/27-rug.png)
 
 ---
-### Day 28 - Rug
+### Day 28 - Window
 ![Window](poems/28-window.png)
 
 ---
